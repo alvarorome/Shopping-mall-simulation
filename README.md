@@ -86,13 +86,10 @@ Esto redujo significativamente las colas y equilibró el sistema sin alterar la 
 
 ## Contenido del Repositorio
 
-```
-Proyecto-Simulacion
- ├── Proyecto_simulación.pdf        # Documento completo del proyecto
- ├── Modelo_Arena.doe               # Archivo del modelo en Arena
- ├── Resultados/                    # Capturas y reportes de Arena
- ├── README.md                         # Este archivo
-```
+- Proyecto_simulación.pdf
+- README.md
+- shopping_mall_inicial.doe
+- shopping_mall_inicial_rpt.xlsm
 
 ---
 
@@ -113,6 +110,3 @@ Proyecto-Simulacion
 - Carlos Hernández López  
 
 ---
-
-Si quieres, puedo adaptarlo a un estilo más técnico, más visual, más minimalista o incluso añadir badges, GIFs o diagramas.
-
